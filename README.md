@@ -13,7 +13,7 @@
     - **Code**: [stretch_web_teleop](https://github.com/hello-robot/stretch_web_teleop) 🎮, [hello-amal](https://github.com/hello-amal) 🧑🏽
 - **Zipline Platform 2 Droid 🛬 (Winter 2023)**: Studied user perceptions of droid motion during delivery, worked with the planning and controls teams to integrate research insights into the autonomy stack.
 - **Office Robot 🤖 (2019--2021)**: Developed an office robot that can promote task success by intentionally asking people for help.
-    - **Code**: [kuri_cmm_demo](https://github.com/hcrlab/kuri_cmm_demo) 🧐, [human_help_user_study](https://github.com/amalnanavati/human_help_user_study) 🤝
+    - **Code**: [kuri_wandering_robot](https://github.com/hcrlab/kuri_wandering_robot) 🛞, [kuri_cmm_demo](https://github.com/hcrlab/kuri_cmm_demo) 🧐, [human_help_user_study](https://github.com/amalnanavati/human_help_user_study) 🤝
 - **Shopkeeper Robot 🏪 (2018--2019)**: Developed a self-supervised deep learning model to predict socially appropriate shopkeeper responses to customers' multi-modal actions in a store.
     - **Dataset**: [one-to-many human-human interaction](https://www.robot.soc.i.kyoto-u.ac.jp/en/research/dataset-one-to-many-human-human-interaction/) 📈
 - **Podi 🧑‍🦯 (2016--2018)**: Developed a guide robot for people who are blind.
