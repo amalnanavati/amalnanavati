@@ -19,7 +19,7 @@
 - **Podi 🧑‍🦯 (2016--2018)**: Developed a guide robot for people who are blind.
     - **Code**: [IROS19-Human-Robot-Coupling](https://github.com/CMU-TBD/IROS19-Human-Robot-Coupling) 🚶‍♀️
 
-**Open Source Contributions 🧑🏽‍💻**:
+**Open Source Contributions 🧑🏽‍💻**: I'm deeply commited to using and contributing to open-source code.
 - **New Features ✨**: [pymoveit2](https://github.com/AndrejOrsula/pymoveit2), [moveit2](https://github.com/moveit/moveit2), [py_trees_ros](https://github.com/splintered-reality/py_trees_ros), and [roslibjs](https://github.com/RobotWebTools/roslibjs).
 - **Bug Fixes 🪲**: [pick_ik](https://github.com/PickNikRobotics/pick_ik), [web_video_server](https://github.com/RobotWebTools/web_video_server)
 
