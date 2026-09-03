@@ -2,7 +2,7 @@
 
 [Website](https://amalnanavati.com/) | [Google Scholar](https://scholar.google.com/citations?user=68V-nNAAAAAJ&hl=en&oi=ao) | [LinkedIn](https://www.linkedin.com/in/amalnanavati/)
 
-**Overview 👨🏽‍🎓**: I'm a robotics software engineer and researcher, currently pursuing my PhD at the University of Washington advised by [Dr. Sidd Srinivasa](https://goodrobot.ai/) and [Dr. Maya Cakmak](https://www.mayacakmak.io/home).
+**Overview 👨🏽‍🎓**: I'm a robotics software engineer and researcher, currently working at [Zoox](https://zoox.com/). I completed my PhD at the University of Washington advised by [Dr. Sidd Srinivasa](https://goodrobot.ai/) and [Dr. Maya Cakmak](https://www.mayacakmak.io/home).
 
 **Research Goal 🤖**: To develop quality-of-life improving robots that work well with and around people.
 
