@@ -6,8 +6,8 @@
 
 **Research Goal 🤖**: To develop quality-of-life improving robots that work well with and around people.
 
-**Projects 🧑🏽‍💻**: I have 8 years experience building end-to-end robot systems:
-- **ADA 🦾 (2021--present)**: Developed a [robot-assisted feeding system](https://robotfeeding.io/) for people with motor impairments.
+**Projects 🧑🏽‍💻**: I have 10 years experience building end-to-end robot systems:
+- **ADA 🦾 (2021--2025)**: Developed a [robot-assisted feeding system](https://robotfeeding.io/) for people with motor impairments.
     - **Code**: [ada_feeding](https://github.com/personalrobotics/ada_feeding) 🍝, [feeding_web_interface](https://github.com/personalrobotics/feeding_web_interface) 📱, [ada_ros2](https://github.com/personalrobotics/ada_ros2) 💻
 - **Stretch 🤖 (Summer 2024)**: Incorporated shared autonomy features into the Stretch mobile manipulator's online interface.
     - **Code**: [stretch_web_teleop](https://github.com/hello-robot/stretch_web_teleop) 🎮, [hello-amal](https://github.com/hello-amal) 🧑🏽
